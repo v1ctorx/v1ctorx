@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating web experiences with HTML, CSS & JavaScript<br>📚 I'm currently learning JavaScript, Java & React<br>🎯 Goal: Become a Front-End Developer and build impactful products<br>🎲 Fun fact: I speak Portuguese, English, and I'm learning Tagalog</p>
+<p data-importer="text" align="left">✨ Turning ideas into responsive web experiences<br>📚 Currently learning JavaScript, React, Java & modern web development<br>🎯 Seeking a Front-End Internship | Future Full-Stack Developer<br>🎲 I speak Portuguese & English and I'm learning Tagalog 🇵🇭</p>
 
 ###
 
